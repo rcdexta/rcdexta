@@ -6,5 +6,4 @@ I've been coding on back-ends, front-ends and some native mobile apps. My curren
 
 Please visit [my personal home page](https://rcdexta.com/) if you want to know more about me.
 
----
-![RC's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcdexta&show_icons=true&theme=radical)
+
